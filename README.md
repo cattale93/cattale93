@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @cattale93
 - 👀 I’m interested in coding, machine learning, machine automation, but more in general I am addicted to technology
-- 🌱 I’m currently working to publish my thesis work
+- 🤞 Thesis work candidated for EUSAR '22 Conference
+- 🌱 Currently working on a very challenging project in the industrial automation field
 - 💞️ I would like to master my python knowledge, to study reinforcment learning and continue to improve my machine learning skills
 - 📫 alessandrocattoi@yahoo.it
