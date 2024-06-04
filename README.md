@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @cattale93
-- 👀 I’m interested in coding, machine learning, machine automation, but more in general I am addicted to technology
-- 🤞 Thesis work accepted at EUSAR '22 Conference. Transcoding-based pre-training of semantic segmentation networks for PolSAR images
-R. Haensch, L. Bruzzone and A. Cattoi, EUSAR 2022 (accepted).
-- 🌱 Currently working on a very challenging project in the industrial automation field
-- 💞️ I would like to master my python knowledge, to study reinforcment learning and continue to improve my machine learning skills
+- 👀 I’m interested in coding, I love to explore new technologies, and I want to be part of the modern industrial revolution
+- 🌱 Currently working on very challenging projects in the industrial automation field
+- 💞️ I would like to master the art of good coding and I want to continously grow my professional knowledge
 - 📫 alessandrocattoi@yahoo.it
