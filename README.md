@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cattale93
+- 👋 Hi, I’m Alessandro
 - 👀 I’m interested in coding, I love to explore new technologies, and I want to be part of the modern industrial revolution
 - 🌱 Currently working on very challenging projects in the industrial automation field
 - 💞️ I would like to master the art of good coding and I want to continously grow my professional knowledge
